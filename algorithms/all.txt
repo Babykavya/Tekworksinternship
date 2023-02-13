@@ -1,0 +1,204 @@
+number1
+step1:START
+step2:input the values P,T,R
+step3:calculate the S.I=P*T*R/100
+step4:print S.I
+step5:STOP
+
+
+
+
+number1
+step1:START
+step2:input the values P,T,R
+step3:calculate the S.I=P*T*R/100
+step4:print S.I
+step5:STOP
+
+
+
+
+
+number2
+step1:START
+step2:read any month number mn
+step3:if(mn==1)
+         print("jan)
+     else if(mn==2)
+         print("feb")
+     else if(mn==3)
+         print("march")
+     else  if(april==4)
+         print("april")
+     else if(may==5) 
+         print("may")
+     else if(jun==6)
+         print("jun")
+     else if(july==7)
+         print("july")
+    else  if(august==8)
+         print("august")
+     else if(sep==9)
+         print("sep")
+    else  if(oct==10)
+         print("oct")
+     else if(nov==11)
+         print("nov")
+     else if(dec==12)
+         print("dec")
+step4:STOP
+
+OUT Put
+condition1 :no output x=10,y-34,z=21
+condition2 :no output 
+condition :divisible by 3
+condition: divisible by 3
+
+
+
+step1:START
+step2:input number
+step3:
+
+
+
+STEP1:start
+start2:start
+
+step3:  s=0,i=40 n=90;
+step4: while(i<=n)
+          
+ {
+              if(i%9==0)
+                 
+{
+                     
+s=s+i
+                     
+i=i+1
+               
+ }
+step5:display s
+
+
+srep6:end
+
+start
+step1: i=1,read n,s=0
+
+step2: while(i<=n)
+          
+ {
+              
+s=s+(x^2)/i
+             
+ i=i+1
+           }
+  
+
+step3:display s
+stop
+
+
+https://github.com/Babykavya/Techwork-internship/issue
+
+algarithm:
+step1: read n,i=0,a=0
+,b=0
+step2: while(n!=0)
+           
+{
+              
+i=n%10
+             
+if(i%2==0):
+                 
+{
+                    
+ a=a*10+i
+               
+}
+             
+else
+             
+{
+                  
+b=b*10+i
+            
+               
+}
+       
+}     
+ 
+step3:display a
+step4:display b
+
+// write the algorithm on library managment system
+
+step1:start
+//library managment system
+step2:enter number of books in library
+step3:display the "number of books"
+step4:add name and information about all books 
+step5:display the" book information"
+step6:add the Author of book
+step7:display the "author"
+step8:add the "cost of the book"
+step9:display the "cost"
+stop
+
+//ATM TRANSACTIONS//
+step1:insert the ATM card
+
+step2:select language     
+step3:select the transaction
+
+step5:while(pin
+      print("enter your pin number")
+step6:enter the  amount
+
+step7:confirm the amount
+step8:remove the card
+step9:transaction is successful
+step10:take the amount
+step11:stop
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
